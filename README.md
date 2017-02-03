@@ -17,5 +17,5 @@ My name is Kyle Deatrick, i'm a geologist
                                                            2)netsh wlan start hostednetwork
     This command instanly started broadcasting my wired connection through wifi for my cell phone to recieve. Very useful and somethign not     available through the computer GUI
     
-* #gitHUB ![GitHub Logo](/images/logo.png) [gitHUB](http://github.com)
+* #gitHUB  [gitHUB](http://github.com)
     GitHUB is an exeptional organization tool generaly used as a hub for teams of individuals programming software, however the uses are       endless, and I can see it being a very useful organizational tool for graduate students who are writing. 
