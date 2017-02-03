@@ -1,8 +1,5 @@
-# Hello-world :earth_africa:
-New Repo
-Hello, 
+## Hello-world :earth_africa:
 
-My name is Kyle Deatrick, i'm a geologist 
 
 # Class Summary Febuary 2, 2017
 *Command Line and gitHUB*
